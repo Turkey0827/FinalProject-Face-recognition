@@ -27,5 +27,8 @@ Role:
 To be honest ,it is not a good program, but it is a good test to finish a whole project(frontend + backend)
 to challenge myself.
 
-Thank you!
+If the program can give you help, pls give me a star.
+
+Thank you❤!
+
 
